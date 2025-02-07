@@ -12,9 +12,9 @@ h1{
     color: orange;
 } 
 .half-width{
-    float: left;
+   
     width: 40%;
- 
+ float:left;
     margin: left 5%;
     padding-left: 2%;}
     
@@ -22,5 +22,9 @@ h1{
     width: 100%;
   }
   .top banner{
-    background-image: url("top-banner.png");
-  }
+    border: 1px solid #1900ff;
+    background-image: url("images/top-banner.png") ; }
+   section{
+    height: 500px; 
+   } 
+  
