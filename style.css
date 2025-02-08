@@ -28,6 +28,7 @@ float: left;
   .top-banner{
     
     background-image: url("top-banner.png") ;
+    background-repeat: no-repeat ;
 
    }
    section{
@@ -47,5 +48,6 @@ p{
   color: dimgray;
 }
 .dream-area{
-  background-image: url(dream-bg.png);
+  background-image: url(exp-bg.png);
+  border: red;
 }
